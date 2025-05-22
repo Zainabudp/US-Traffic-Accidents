@@ -8,9 +8,9 @@ How to Run the Code
 
 Project Objectives
 The primary aim of this project is to:
-- Analyze accident data: Understand patterns in severity distribution.
+- Analyze road accident data: Understand patterns in accident severity distribution.
 - Preprocess the dataset: Handle missing values and categorical encoding.
-- Select important features: Identify key attributes influencing severity.
+- Select important features: Identify key attributes influencing & road accidents and its severity.
 - Train machine learning models: Compare multiple classifiers.
 - Optimize models: Tune hyperparameters for better performance.
 - Evaluate results: Visualize confusion matrices, ROC curves, and feature importance.
